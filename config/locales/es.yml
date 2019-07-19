@@ -1,0 +1,11 @@
+es:
+  issues_tree:
+    tree_view: Vista de árbol
+    expand_current_nodes: Expandir al siguiente nivel
+    collapse_all: Cerrar todo
+    back_to_plain_list: Estructura plana
+    errors:
+      unable_to_group_in_tree_view: No se puede agrupar en una vista de árbol
+    settings:
+      default_redirect_to_tree_view: Establecer una vista de árbol por defecto para las peticiones (Esto puede ser muy lento para proyectos con más de 1000 peticiones)
+      default_redirect_to_tree_view_without_project: Estabelecer una vista de árbol por defecto para peticiones que están fuera del foco de proyecto (Esto puede ser muy lento para páginas con más de 1000 peticiones)
